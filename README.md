@@ -5,7 +5,7 @@ Empresa: Nicaexport
  Objetivo: Analizar las operaciones de exportación de la empresa Nicaexport mediante el uso de herramientas de análisis de datos, identificando los principales mercados, productos, clientes, niveles de   rentabilidad y operaciones que requieren atención.
  Integrantes: 
   - Scarlett Cerna
-  - Paola
+  - Paola Salazar
 Herramientas utilizadas:
   - Microsoft Excel
   - Tablas y filtros
